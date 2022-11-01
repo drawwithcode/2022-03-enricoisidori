@@ -6,8 +6,8 @@ let myFont;
 let showText = true;
 
 function preload() {
-  myFont = loadFont("assets/NeueMetana-Bold.otf");
-  song = loadSound("assets/audio.mp3");
+  myFont = loadFont("NeueMetana-Bold.otf");
+  song = loadSound("audio.mp3");
 }
 
 function setup() {
