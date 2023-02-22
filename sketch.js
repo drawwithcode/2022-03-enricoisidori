@@ -38,7 +38,7 @@ function draw() {
     textFont(myFont);
     textSize(36);
     textAlign(CENTER);
-    let txt = text("CLICK TO START", width / 2, height / 2);
+    let txt = text("", width / 2, height / 2);
   }
 }
 
