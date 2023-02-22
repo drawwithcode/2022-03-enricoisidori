@@ -3,7 +3,7 @@ let song;
 let vol;
 let h;
 let myFont;
-let showText = true;
+let showText = false;
 
 function preload() {
   myFont = loadFont("NeueMetana-Bold.otf");
